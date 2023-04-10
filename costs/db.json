@@ -7,23 +7,19 @@
         "id": "2",
         "name": "Desenvolvimento"
       },
-      "cost": 0,
-      "services": [],
-      "id": 1
-    },
-    {
-      "name": "Teste",
-      "budget": "5000",
-      "category": {
-        "id": "2",
-        "name": "Desenvolvimento"
-      },
-      "cost": 0,
-      "services": [],
+      "cost": 1000,
+      "services": [
+        {
+          "name": "Serviço 1",
+          "cost": "1000",
+          "description": "nao sei",
+          "id": "b2f3550d-3360-4274-a0fc-220acf5f7f71"
+        }
+      ],
       "id": 2
     },
     {
-      "name": "Teste 3",
+      "name": "Teste att",
       "budget": "10000",
       "category": {
         "id": "3",
